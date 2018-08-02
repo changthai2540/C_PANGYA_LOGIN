@@ -1,0 +1,19 @@
+﻿  Core.cpp
+  account.cpp
+  clif.cpp
+  db.cpp
+  packet.cpp
+  session.cpp
+  socket.cpp
+  unique.cpp
+  crypto.cpp
+  pc.cpp
+  pcs.cpp
+  reader.cpp
+  ini_reader.cpp
+  utils.cpp
+  ini.c
+  Generating code
+  All 4021 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PangyaProject.vcxproj -> C:\Users\TOP-OUTER\Desktop\PangyaProject\Release\PangyaProject.exe
